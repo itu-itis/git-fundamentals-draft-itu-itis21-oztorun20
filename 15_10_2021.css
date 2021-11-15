@@ -10,4 +10,6 @@
                 background-color: lightgrey;
                 font-weight: bold;
                }
-           li {list-style-type: square;}
+           ul {
+                list-style-type: square;
+              }
